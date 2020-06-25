@@ -55,6 +55,7 @@ nav{width: 150px;}
 aside{width: 200px;}
 
 .resizeimage img { 
+    height: auto;
     width: 100%;
     margin: 0em;
 }
