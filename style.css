@@ -38,10 +38,6 @@ header h1 a{
     font-weight: bold;
     padding: 20px;
 }
-div{
-    display: flex;
-    flex: 1;
-}
 .warapper{
     margin: 0 auto;
     width: 800px;
