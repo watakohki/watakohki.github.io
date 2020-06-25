@@ -91,7 +91,7 @@ footer{
 }
 
 @media only screen and (max-width:651px) {　/* 小画面用 */
-    h1 {font-size: 20px;}
-    h2 {font-size: 18px;}
-    p {font-size: 14px;}
+    h1 {font-size: 26px;}
+    h2 {font-size: 22px;}
+    p {font-size: 17px;}
 }
