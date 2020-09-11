@@ -104,7 +104,7 @@ footer{
 }
 
 /*小画面用 */
-@media only screen and (max-width:480px) {
+@media only screen and (max-width: 500px) {
     
     #menu_ul li{
         width: 48%;
